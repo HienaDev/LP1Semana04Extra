@@ -7,6 +7,7 @@ namespace testrepo
         private static void Main(string[] args)
         {
             Console.WriteLine("Coworker edit!");
+            Console.WriteLine("Coworker edit!");
             SomeFunction();
         }
 
